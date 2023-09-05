@@ -1,0 +1,4 @@
+{
+    "git.allowNoVerifyCommit": false,
+    "git.requireGitUserConfig": false
+}
